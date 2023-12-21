@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Russo+One&family=Unbounded&display=swap');
+
+.truck {
+    display: flex;
+    justify-content: center;
+    
+}
+
+.image {
+    border-radius: 20px;
+    width: 600px;
+    height: 300px;
+}
+
+h2 {
+    font-family: 'Russo One', sans-serif;
+}
+
+
+.maps {
+    text-align: center;
+}
+
+h4 {
+    font-family:  'Russo One', sans-serif ;
+}
+
+.contact {
+    display: flex;
+    justify-content: space-between;
+    gap: 1px
+}
